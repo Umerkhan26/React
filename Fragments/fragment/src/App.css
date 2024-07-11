@@ -1,0 +1,7 @@
+.food-heading {
+  background-color: rgb(255, 127, 212);
+  color: #562b79;
+  text-align: center;
+}
+
+/* Localized class to aviod global conflict. Styles are scoped to individual component.Note: Automatically generate "unique class name". Promate modular and maintainable CSS  */
